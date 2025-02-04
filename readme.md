@@ -10,7 +10,7 @@ Versioning :
 GitHub : https://github.com/RichartJB-Vox/ECF_Pizzeria
 
 Projet :
-Mise en place du HTML et du CSS pour la présentation d'un site web d'une pizzeria.
+Mise en place du HTML et du CSS pour la présentation front end d'un site web d'une pizzeria.
 4 pages sont mises en place répondant aux différents besoins :
      - Présentation (index)
      - Menus
