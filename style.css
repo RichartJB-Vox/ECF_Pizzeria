@@ -1,15 +1,21 @@
+/*GENERAL*/
 * {
     width: auto;
     margin: auto;
 }
 
 body {
-    background-color: black;
+    background-color: gray
 }
 
 .section {
-    width: 100%;
-    background-color: black;
+    background-image: ;
+
+}
+
+/*HEADER*/
+.navbar-nav {
+    border : black solid 3px
 
 }
 
