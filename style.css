@@ -6,15 +6,16 @@
 
 body {
     background-image: url(Images/Background_Pizza.jpg);
-    background-size: cover; /* Rend l'image de fond responsive */
+    background-size: 100% auto;
     background-repeat: no-repeat;
-    background-position: center; /* Centre l'image de fond */
+    background-position: center;
     font-size: 1.5em;
-    color: white;
+    color: black;
+    text-align: center justify;
 }
 
 body section div {
-    background-color: rgba(255, 255, 255, 0.5); /* Utilisation de rgba pour la transparence */
+    background-color: rgba(255, 255, 255, 0.5);
 }
 
 /*HEADER*/
