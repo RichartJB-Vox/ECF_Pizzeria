@@ -5,30 +5,31 @@
 }
 
 body {
-    background-image: url(Images/Background_Pizza.jpg) ;
-
-}
-
-body section div {
-    background-color: white 0.5;
-}
-
-body {
+    background-image: url(Images/Background_Pizza.jpg);
+    background-size: cover; /* Rend l'image de fond responsive */
+    background-repeat: no-repeat;
+    background-position: center; /* Centre l'image de fond */
     font-size: 1.5em;
     color: white;
 }
 
+body section div {
+    background-color: rgba(255, 255, 255, 0.5); /* Utilisation de rgba pour la transparence */
+}
+
 /*HEADER*/
 header {
-    border : black solid 3px;
+    border: black solid 3px;
 }
 .navbar-nav {
-    border : black solid 3px
-
+    border: black solid 3px;
 }
 
 /*FOOTER*/
-
+body footer {
+    border: black solid 3px;
+    background-color: white;
+}
 
 /*MEDIA QUERIES*/
 @media screen and (max-width: 640px) {
