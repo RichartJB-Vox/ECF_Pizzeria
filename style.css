@@ -13,6 +13,11 @@ body section div {
     background-color: white 0.5;
 }
 
+body {
+    font-size: 1.5em;
+    color: white;
+}
+
 /*HEADER*/
 header {
     border : black solid 3px;
@@ -21,6 +26,9 @@ header {
     border : black solid 3px
 
 }
+
+/*FOOTER*/
+
 
 /*MEDIA QUERIES*/
 @media screen and (max-width: 640px) {
