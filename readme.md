@@ -21,3 +21,4 @@ Mise en place du HTML et du CSS pour la présentation front end d'un site web d'
      - Boissons
      - Contacts
 
+Lancer : OUuvrir ou glisser tous les fichiers avec VSCode
